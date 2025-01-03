@@ -1,0 +1,180 @@
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc>mkdir mon-projet-dclic
+'C:\Users\pc' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>Un sous-répertoire ou un fichier mon-projet-dclic existe déjà.
+'Un' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc>cd mon-projet-dclic
+'C:\Users\pc' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>
+La syntaxe de la commande n’est pas correcte.
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>git init
+'C:\Users\pc\mon-projet-dclic' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>Reinitialized existing Git repository in C:/Users/pc/mon-projet-dclic/.git/
+'Reinitialized' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>echo. > README.md #
+'C:\Users\pc\mon-projet-dclic' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>C:\Users\pc\Desktop\rapport.docx
+Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+
+C:\Users\pc>Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+'Le' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>git add README.md
+'C:\Users\pc\mon-projet-dclic' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>git commit -m "Premier commit"
+'C:\Users\pc\mon-projet-dclic' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>[master (root-commit) 8c58729] Premier commit
+'[master' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc> 1 file changed, 1 insertion(+)
+'1' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc> create mode 100644 README.md
+'create' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>echoC:\Users\pc\Desktop\rapport.docx
+La syntaxe du nom de fichier, de répertoire ou de volume est incorrecte.
+
+C:\Users\pc>La syntaxe du nom de fichier, de répertoire ou de volume est incorrecte.
+'La' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>C:\Users\pc\Desktop\rapport.docx
+Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>git add README.md
+'C:\Users\pc\mon-projet-dclic' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>git commit -m "Premier commit"
+'C:\Users\pc\mon-projet-dclic' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>On branch master
+'On' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>nothing to commit, working tree clean
+'nothing' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>
+C:\Users\pc>C:\Users\pc\mon-projet-dclic>git remote add origin https://github.com/charlesdjade/mon-projet.declic.git
+'C:\Users\pc\mon-projet-dclic' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\pc>git branch -M main
+
+C:\Users\pc>
+C:\Users\pc>git push origin main
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+C:\Users\pc>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Disable this message with "git config advice.addEmptyPathspec false"
+
+C:\Users\pc>git commit -m "Ajout d'un nouveau fichier"
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'Menu Démarrer/': Permission denied
+warning: could not open directory 'Mes documents/': Permission denied
+warning: could not open directory 'Modèles/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Voisinage d'impression/': Permission denied
+warning: could not open directory 'Voisinage réseau/': Permission denied
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .bash_history
+        .gitconfig
+        .lesshst
+        AppData/
+        Contacts/
+        Desktop/
+        Documents/
+        Downloads/
+        Favorites/
+        Links/
+        Local Sites/
+        Local/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{01033816-b8be-11e8-acdf-c80aa9996c93}.TxR.0.regtrans-ms
+        NTUSER.DAT{01033816-b8be-11e8-acdf-c80aa9996c93}.TxR.1.regtrans-ms
+        NTUSER.DAT{01033816-b8be-11e8-acdf-c80aa9996c93}.TxR.2.regtrans-ms
+        NTUSER.DAT{01033816-b8be-11e8-acdf-c80aa9996c93}.TxR.blf
+        NTUSER.DAT{01033817-b8be-11e8-acdf-c80aa9996c93}.TM.blf
+        NTUSER.DAT{01033817-b8be-11e8-acdf-c80aa9996c93}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{01033817-b8be-11e8-acdf-c80aa9996c93}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Pictures/
+        Saved Games/
+        Searches/
+        Videos/
+        cd
+        git
+        mkdir
+        mon-projet-dclic/
+        mon-projet/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+        ton-projet/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\pc>git push origin main
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+C:\Users\pc>git branch charlesdjade
+
+C:\Users\pc>C:\Users\pc\Desktop\plan.docx
+
+C:\Users\pc>
